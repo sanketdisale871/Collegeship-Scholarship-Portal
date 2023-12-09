@@ -77,8 +77,6 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - [x] Offline System
 - [x] Optical Character Recognition
 
-See the [open issues](https://github.com/siddhesh-desai/CollegeShip/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Some Glimpses of Collegeship
