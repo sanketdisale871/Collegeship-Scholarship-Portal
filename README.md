@@ -1,38 +1,11 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
-<br/>
-<div align="center">
-  <a href="https://github.com/sanketdisale871/CollegeShip">
-    <img src="images/CollegeShip-logo.png" alt="Logo">
-  </a>
-    <br>
-    <br>
 
-  <h3 align="center"><b>CollegeShip</b></h3>
+![logo](https://github.com/sanketdisale871/Collegeship-Scholarship-Portal/assets/109368165/e2f9a957-283e-4beb-a3f4-759ae4b3bdf0)
 
-  <p align="center">
-    CollegeShip is an offline portal for application for scholarships for the students in rural areas.
-    <br />
-    <br>
-    <a href=https://github.com/sanketdisale871/Collegeship-Scholarship-Portal"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href=https://github.com/sanketdisale871/Collegeship-Scholarship-Portal">View Demo</a>
-    ·
-    <a href=https://github.com/sanketdisale871/Collegeship-Scholarship-Portal/issues">Report Bug</a>
-    ·
-    <a href=https://github.com/sanketdisale871/Collegeship-Scholarship-Portal/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-<br>
 
 ## ♾️ About The Project
 
@@ -46,13 +19,13 @@ CollegeShip serves as a powerful tool to promote educational opportunities and e
 
 The technologies and tools used are:
 
-- [![HTML][html]][html-url]
-- [![CSS][css]][css-url]
-- [![JavaScript][js]][js-url]
-- [![MongoDB][mongodb]][mongodb-url]
-- [![ExpressJS][express]][express-url]
-- [![NodeJS][node]][node-url]
-- [![Python][python]][python-url]
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- ExpressJS
+-NodeJS
+-Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
